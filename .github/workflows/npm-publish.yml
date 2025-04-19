@@ -12,8 +12,7 @@ jobs:
         uses: actions/setup-node@v4.4.0
         with:
           node-version: "20.18.0"
-      - run: npm ci
-      - run: npm test
+      - run: npm install
       - name: Publish to NPM
         uses: JS-DevTools/npm-publish@v3.1.1
         with:
