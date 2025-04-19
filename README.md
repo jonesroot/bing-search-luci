@@ -1,6 +1,3 @@
----
-
-```markdown
 # bing-search-luci
 
 **bing-search-luci** adalah modul Node.js sederhana untuk mencari gambar dari Bing menggunakan teknik scraping.
@@ -58,6 +55,3 @@ const searchBingImages = require("bing-search-luci");
 ## Lisensi
 
 [MIT](./LICENSE)
-```
-
----
