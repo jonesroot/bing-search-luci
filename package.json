@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/jonesroot/bing-search-luci#readme",
   "dependencies": {
-      "axios": "github:axios/axios#v1.x"
+      "axios": "^1.8.4"
   }
 }
