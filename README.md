@@ -38,9 +38,9 @@ const searchBingImages = require("bing-search-luci");
 
 ## Parameter
 
-| Parameter | Tipe     | Deskripsi                                | Wajib |
-|-----------|----------|-------------------------------------------|-------|
-| `query`   | `string` | Kata kunci pencarian                      | Ya    |
+| Parameter | Tipe     | Deskripsi                                     | Wajib |
+| --------- | -------- | --------------------------------------------- | ----- |
+| `query`   | `string` | Kata kunci pencarian                          | Ya    |
 | `count`   | `number` | Jumlah gambar yang ingin diambil (default: 5) | Tidak |
 
 ## Catatan
