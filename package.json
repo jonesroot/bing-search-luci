@@ -1,6 +1,6 @@
 {
   "name": "bing-search-luci",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search Bing Images.",
   "main": "index.js",
   "scripts": {
